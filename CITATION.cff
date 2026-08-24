@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Bu rehberi kullanırsanız lütfen aşağıdaki gibi atıf verin."
+title: "Türkiye'de Kripto Varlık Hizmet Sağlayıcı (KVHS/VASP) Lisansı Rehberi"
+authors:
+  - family-names: "Hacıpaşaoğlu"
+    given-names: "Erdem Mümtaz"
+    affiliation: "Vircon Legal"
+    website: "https://mumtazhacipasaoglu.com"
+repository-code: "https://github.com/mumtazhpo/vasp-lisansi-turkiye"
+url: "https://virconlegal.com/icos-crypto-currencies-blockchain/"
+license: CC-BY-4.0
+date-released: "2026-08-21"
